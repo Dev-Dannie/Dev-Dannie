@@ -1,5 +1,5 @@
 # Hi, My name is Daniel 
-- I am seeking an opportunity to make the best use of my knowledge and utilizing it for adding value in every form and fulfilling my personal and professional growth
+- I am seeking an opportunity to make the best use of my knowledge and utilizing it for adding value in every form; fulfilling my personal and professional growth
 - 👀  I love animes, sports and meeting new people
 - 🌱 I’m currently learning Javascript & React
 - 💞️ I’m looking to collaborate on open source projects, web dev gigs and even full time jobs
