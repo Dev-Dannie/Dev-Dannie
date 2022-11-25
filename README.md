@@ -5,7 +5,7 @@
 - 📫 I am open to work with anyone from diverse locations and You can contact me via the following medium:
 Whatsapp: +2348130155393
 Gmail: damilare1daniel@gmail.com
-Twitter: @DevDannie
+Twitter: [@DevDannie](https://twitter.com/DevDannie)
 
 
 
