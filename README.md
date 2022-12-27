@@ -2,7 +2,7 @@
 
 
 # Hi, My name is Daniel 
-- I am currently based in Nigeria
+- I am a Frontend web developer 
 - I am seeking an opportunity to make the best use of my knowledge and utilizing it for adding value in every form; fulfilling my personal and professional growth
 - 👀  I love animes, sports and meeting new people
 - 🌱 I’m currently learning React
