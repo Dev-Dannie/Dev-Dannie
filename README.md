@@ -3,7 +3,7 @@
 
 # Hi, My name is Daniel 
 - I am a Frontend web developer 
-- I am seeking an opportunity to make the best use of my knowledge and utilizing it for adding value in every form; fulfilling my personal and professional growth
+- I am seeking opportunities to make the best use of my knowledge; utilizing it by adding value in every form; whilst fulfilling my personal and professional growth
 - 👀  I love animes, sports and meeting new people
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on open source projects, web dev gigs and even full time jobs
