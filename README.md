@@ -6,9 +6,9 @@
 - seeking opportunities to make the best use of my knowledge; utilizing it by adding value in every form; whilst fulfilling my personal and professional growth
 - 👀  I love animes, sports and meeting new people
 - 💞️ looking to collaborate on open source projects, web dev gigs and even full time jobs
-- 📫 I am open to work with anyone from diverse location 
+- 📫 I am open to work with anyone from diverse locations
 - Gmail: damilare1daniel@gmail.com
-- Twitter: [@DevDannie](https://twitter.com/DevDannie)
+- Twitter: [@ghostxcodes](https://twitter.com/ghostxcodes)
 
 
 
